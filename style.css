@@ -6,6 +6,7 @@ body {
 }
 .header {
     background-image: url("Big.jpg");
+    background-image: url("tenor.gif");
     background-repeat: no-repeat;
     position: relative;
     text-align: center;
